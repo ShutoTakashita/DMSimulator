@@ -686,7 +686,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameMode: 0
-  deckFolder: TsetDeck
+  deckFolder: TestDeck
   partner: {fileID: 21300000, guid: f029cac3be970ee418b08166bde88f1b, type: 3}
 --- !u!1 &274835838
 GameObject:
