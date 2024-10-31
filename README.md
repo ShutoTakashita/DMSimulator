@@ -77,8 +77,8 @@ https://github.com/user-attachments/assets/4850c3ac-acf9-4530-be6e-2065a91b64cf
 # デッキの準備
 0. デフォルトでは、トランプの画像がデッキとして、またDMSimulatorのそれらしい画像がカード裏面として準備されています。
 1. 画像を用意します。
-2. ProjectビューのResources/MyFolderの中に、フォルダを作り、そこに画像をD&Dなどで入れます。(MyFolderがない場合は、作成してください。Resourcesの中にフォルダを直接入れても大丈夫です。)フォルダ名は、例えば"バクオンソー"のようなデッキ名にしてください。
-3. カードを全て選択し、Texture TypeをSprite (2D and UI)にしてApplyします。
+2. ProjectビューのResources/MyFolderの中に、フォルダを作り、そこに画像をD&Dなどで入れます。(MyFolderがない場合は、作成してください。Resourcesの中にフォルダを直接入れても大丈夫です。)フォルダ名は、例えば"マーシャルマクスウェル"のようなデッキ名にしてください。
+3. カードの画像を全て選択し、Texture TypeをSprite (2D and UI)にしてApplyします。shiftキーで複数選択ができます。
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a8bb9450-5158-4e67-911c-4de700a2258f" width="300" />
 </p>
