@@ -3,7 +3,11 @@
 非公式のソフトとなりますので、私的利用に収まる範囲でご使用ください。
 
 
-https://github.com/user-attachments/assets/4850c3ac-acf9-4530-be6e-2065a91b64cf
+
+https://github.com/user-attachments/assets/8eadec68-07c0-4805-a485-0016a2b21bbb
+
+
+
 
 
 本ソフトは非営利であり、著作者の権益を侵害する意図はありません。配布停止の要望があった際には、速やかに対処致します。
