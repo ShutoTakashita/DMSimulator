@@ -68,6 +68,9 @@ https://github.com/user-attachments/assets/8eadec68-07c0-4805-a485-0016a2b21bbb
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0304bfa0-a31c-4b6f-a842-b114a8ee0aff" width="300" />
 </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c8e09813-b1d3-40d4-bedb-bfc9ca711542" width="300" />
+</p>
 
 5. ProjectビューからAsset/Scenes/DevelopSceneを開きます。初回はTextMesh Proを追加しようというウィンドウが出るので、Import TMP Essentialsを押してください。また、画面のLayoutが正しくない場合は2by3に替えてみてください。
 <p align="center">
