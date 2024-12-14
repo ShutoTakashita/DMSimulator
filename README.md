@@ -61,7 +61,7 @@ https://github.com/user-attachments/assets/8eadec68-07c0-4805-a485-0016a2b21bbb
 ただし、本レポジトリには[UnityCapture](https://github.com/schellingb/UnityCapture)を(URP Rendererに動作するように)改変した部分を含んでおり、その派生ファイルはUnityCaptureのライセンス(MITライセンス及びzlibライセンス)に従います。
 
 # セットアップ
-1. 当レポジトリをダウンロードします。
+1. 当レポジトリをダウンロードします。(zipファイルでダウンロードした場合は展開します。)
 2. Unity Hubをインストールします。
 3. 映像を出力したい場合、[UnityCapture](https://github.com/schellingb/UnityCapture)をインストールします。
 4. Unity2022.3.36f1をインストールし、「開く」→「ディスクから加える」で本プロジェクトをUnity Hubに登録して、開きます。初回はパッケージのダウンロードやインストールが走るため時間がかかります。
