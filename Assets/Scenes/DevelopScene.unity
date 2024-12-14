@@ -686,8 +686,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameMode: 0
-  deckFolder: TestDeck
-  partner: {fileID: 21300000, guid: f029cac3be970ee418b08166bde88f1b, type: 3}
+  deckSettings:
+  - deckFolder: TestDeck
+    partner: {fileID: 21300000, guid: 97ad4dc26f9be1043b361b2b26d54606, type: 3}
+  - deckFolder: BAKUON
+    partner: {fileID: 21300000, guid: 4f34fbf2e31b4a84aa5a4ba9d20fa4b7, type: 3}
+  - deckFolder: "\u9752\u767D\u30B6\u30BC\u30BC\u30FC\u30F3"
+    partner: {fileID: 21300000, guid: c5f793f90130d0544923d7a6d66620fd, type: 3}
+  - deckFolder: Yabadan
+    partner: {fileID: 21300000, guid: 399a7a34c999525429ff612ed2e0d2ee, type: 3}
+  - deckFolder: ob
+    partner: {fileID: 21300000, guid: 84ed7adf18dc4944fbdf8dd325f30c6d, type: 3}
+  - deckFolder: "\u30D5\u30A7\u30CB\u30C3\u30AF\u30B9"
+    partner: {fileID: 21300000, guid: 3456036bee872a941945b5a29c27b53d, type: 3}
+  - deckFolder: "\u8D64\u9ED2\u9752\u30DE\u30B8\u30C3\u30AF"
+    partner: {fileID: 21300000, guid: 851f9750909b48e4596e1cc2bbf55f9d, type: 3}
+  - deckFolder: "\u30C9\u30AE\u30E9\u30B4\u30F3"
+    partner: {fileID: 21300000, guid: 851f9750909b48e4596e1cc2bbf55f9d, type: 3}
+  deckFolder: 
+  partner: {fileID: 0}
 --- !u!1 &274835838
 GameObject:
   m_ObjectHideFlags: 0
@@ -7058,7 +7075,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6948b00db9223234ea183b46bf31f5ad, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 30e433ccda86c79459490a2a16d066a8, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
