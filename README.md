@@ -77,6 +77,8 @@ https://github.com/user-attachments/assets/8eadec68-07c0-4805-a485-0016a2b21bbb
   <img src="https://github.com/user-attachments/assets/aefacf3f-a6b8-4f7a-94d4-82445e7ef783" width="300" />
 </p>
 
+注:) Import TMP Essentialsをやっていないと、デッキの上に数字(残り枚数)が表示されないなど、おかしなことになり、フリーズします。必ずImport TMP Essentialをしてください。
+
 HierarchyビューのCanvasをダブルクリックして、ちょっとシーンビューの画角をマウスで動かして、こんな状態にしておくと良いです。
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6488d2fc-848f-408c-8610-b8c022a7dfc5" width="300" />
@@ -88,7 +90,7 @@ HierarchyビューのCanvasをダブルクリックして、ちょっとシー�
   <img src="https://github.com/user-attachments/assets/abbf48e0-d4a8-4236-a414-8d31be6a7cae" width="300" />
 </p>
 
-7. 再生ボタンを押すと動作します。
+7. 再生ボタン(画面上中央にある3つのボタンのうち、▷のアイコンのもの)を押すと動作します。
 
 # デッキの準備
 0. デフォルトでは、トランプの画像がデッキとして、またDMSimulatorのそれらしい画像がカード裏面として準備されています。
